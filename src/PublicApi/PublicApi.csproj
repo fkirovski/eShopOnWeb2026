@@ -11,6 +11,7 @@
   <ItemGroup>
     <PackageReference Include="Ardalis.ApiEndpoints" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" />
+    <PackageReference Include="Azure.Identity" VersionOverride="1.21.0" />
     <PackageReference Include="Microsoft.Build" />
     <PackageReference Include="MinimalApi.Endpoint" />
     <PackageReference Include="NuGet.Packaging" />
